@@ -12,7 +12,7 @@ Hi 👋, I'm Korra Abhishek
 - React.js
 - MERN Stack
 
-🏆 Solved 237+ LeetCode Problems
+🏆 Solved 250+ LeetCode Problems
 
 📫 Connect with Me:
 
